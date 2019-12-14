@@ -1,0 +1,14 @@
+O modelo conceitual (fluxograma) dos dois código criados segue exatamente o que
+foi implementado:
+
+- Para o código em Shell, é checado se existe um programa em python3 de nome "pid"
+ativo. Caso o programa esteja ativo, é impresso na tela a mensagem "It is alive", e
+o código em Shell é finalizado. Caso contrário, é impresso na tela a mensagem "It is
+dead", e o programa em python3 é iniciado.
+
+- Já para o código em python3, inicialmente de adquiri o ID do processo do script, e em
+seguida este ID é exibido na tela. Em seguida, o código entre em um loop: com o seu contado
+igual a zero, são feitas 3 interações. A cada interação é exibido na tela a mensagem
+"I am alive", é somado 1 ao contador, e se aguarda 2 segundos até a próxima interação.
+Após a tarceira interação, o código sai do loop, e imprime na tela a mensagem "I gonna
+die now, bye.", e finializa o código.

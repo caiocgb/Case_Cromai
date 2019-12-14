@@ -1,0 +1,6 @@
+Para executar o programa, o procedimento é o seguinte:
+
+CAMINHO_ONDE_ESTA_SALVO_OS_ARQUIVOS/bash codigo.sh
+
+Projeto criado no Ubuntu 18.04.3
+
